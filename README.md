@@ -8,6 +8,8 @@ The dataset consists of information from 244 restaurant bills, collected in the 
 
 ## Data Souce:
 
+``` https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv ```
+
 Source of the data
 Description of the dataset
 How to access or download the data if it's not included in the repository
