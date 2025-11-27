@@ -12,6 +12,8 @@ The dataset is sourced from Seaborn's sample datasets, which are included for ed
 
 ``` https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv ```
 
+## Data Structure
+
 The dataset is a Pandas DataFrame. Key variables include:
 
 `total_bill`: The total amount of the bill (in USD).
