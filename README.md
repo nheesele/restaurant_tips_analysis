@@ -44,4 +44,4 @@ The process to clean and examine the datasets is performed in the link below:
 https://github.com/nheesele/restaurant_tips_analysis/blob/main/Restaurant_tips_analysis.ipynb
 ```
 
-
+**Author:** Nhi Le
